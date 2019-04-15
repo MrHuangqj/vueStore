@@ -6,14 +6,14 @@
       fixed
       class="navbar"
     >
-      <router-link
+      <!-- <router-link
         to="#"
         slot="left"
       >
         <yd-navbar-back-icon></yd-navbar-back-icon>
       </router-link>
       <router-link
-        to="#"
+        to="/home"
         slot="right"
       >
         <yd-icon
@@ -21,7 +21,7 @@
           size=".45rem"
           color="rgb(92, 92, 92)"
         ></yd-icon>
-      </router-link>
+      </router-link> -->
     </yd-navbar>
   </div>
 </template>

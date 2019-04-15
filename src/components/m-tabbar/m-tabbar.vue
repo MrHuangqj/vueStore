@@ -1,6 +1,9 @@
 <template>
-  <div class="m-tabbar" @click="selectItem">
-    <yd-tabbar fixed >
+  <div
+    class="m-tabbar"
+    @click="selectItem"
+  >
+    <yd-tabbar fixed>
       <yd-tabbar-item
         title="首页"
         link="/"
@@ -57,22 +60,43 @@
 export default {
   data() {
     return {
-      select: '/'
+      // select: '/'
     };
-  },
-  created(){
-    select: '/'
   },
   methods: {
     selectItem() {
       // this.select = index;
       console.log(this.$route.path);
-      this.select=this.$route.path
+      let tabbar = this.$route.path;
+      if (
+        tabbar == "/" ||
+        tabbar == "/category" ||
+        tabbar == "/user" ||
+        tabbar == "/cart"
+      )
+        //解决路径非四个导航栏地址时的显示
+        this.select = tabbar;
+      else {
+        this.show = false;
+        this.select = "/";
+      }
       // console.log(this.select);
+    }
+  },
+  created() {
+    // this.selectItem();
+  },
+  computed: {
+    select: {
+      get: function() {
+        return this.$route.path;
+      },
+      set: function() {
+        return '/'
+      }
     }
   }
 };
 </script>
            
-<style lang="stylus" scoped>
-</style>
+<style lang="stylus" scoped></style>

@@ -1,0 +1,288 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.2",
+    "workspace": "e:\\vueStore",
+    "linecount": [
+        {
+            "version": "0.2.2",
+            "counttime": "2019-03-28 09:08:45",
+            "filesum": 37,
+            "codesum": 7185,
+            "commentsum": 101,
+            "blanksum": 1029,
+            "statistics": {
+                "": {
+                    "code": 32,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".js": {
+                    "code": 533,
+                    "comment": 81,
+                    "blank": 81
+                },
+                ".html": {
+                    "code": 12,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 299,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".md": {
+                    "code": 14,
+                    "comment": 1,
+                    "blank": 7
+                },
+                ".txt": {
+                    "code": 46,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".vue": {
+                    "code": 547,
+                    "comment": 2,
+                    "blank": 45
+                },
+                ".lock": {
+                    "code": 5702,
+                    "comment": 16,
+                    "blank": 891
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": ".babelrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".editorconfig"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 2,
+                    "filename": ".postcssrc.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 33,
+                    "comment": 1,
+                    "filename": "build\\build.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "build\\check-versions.js"
+                },
+                {
+                    "blank": 17,
+                    "code": 79,
+                    "comment": 5,
+                    "filename": "build\\utils.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "build\\vue-loader.conf.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 74,
+                    "comment": 4,
+                    "filename": "build\\webpack.base.conf.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 87,
+                    "comment": 11,
+                    "filename": "build\\webpack.dev.conf.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 113,
+                    "comment": 24,
+                    "filename": "build\\webpack.prod.conf.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "config\\dev.env.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 28,
+                    "comment": 28,
+                    "filename": "config\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "config\\prod.env.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 1,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 234,
+                    "comment": 0,
+                    "filename": "out\\linecount.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "out\\linecount.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 7,
+                    "code": 14,
+                    "comment": 1,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\App.vue"
+                },
+                {
+                    "filename": "src\\assets\\logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 115,
+                    "comment": 0,
+                    "filename": "src\\components\\cart\\cart.vue"
+                },
+                {
+                    "blank": 10,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "src\\components\\category\\category.vue"
+                },
+                {
+                    "blank": 7,
+                    "code": 85,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\home.vue"
+                },
+                {
+                    "blank": 2,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\components\\m-navbar\\m-navbar.vue"
+                },
+                {
+                    "blank": 2,
+                    "code": 74,
+                    "comment": 2,
+                    "filename": "src\\components\\m-tabbar\\m-tabbar.vue"
+                },
+                {
+                    "filename": "src\\components\\user\\background.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\user\\obligation.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\user\\receiving.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\user\\repairs.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\user\\user.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 14,
+                    "code": 140,
+                    "comment": 0,
+                    "filename": "src\\components\\user\\user.vue"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 6,
+                    "filename": "src\\main.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\router\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "static\\.gitkeep"
+                },
+                {
+                    "filename": "static\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 891,
+                    "code": 5702,
+                    "comment": 16,
+                    "filename": "yarn.lock"
+                }
+            ]
+        }
+    ]
+}

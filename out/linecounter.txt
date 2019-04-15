@@ -1,0 +1,61 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.2
+-------------------------------------------------------------------------------
+count time : 2019-03-28 09:08:45
+count workspace : e:\vueStore
+total files : 37
+total code lines : 7185
+total comment lines : 101
+total blank lines : 1029
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |             32|              0|              3|   0.45|
+   |            .js|            533|             81|             81|    7.4|
+   |          .html|             12|              1|              0|   0.17|
+   |          .json|            299|              0|              1|    4.2|
+   |            .md|             14|              1|              7|   0.19|
+   |           .txt|             46|              0|              1|   0.64|
+   |           .vue|            547|              2|             45|    7.6|
+   |          .lock|           5702|             16|            891|     79|
+   -------------------------------------------------------------------------
+.babelrc, code is 11, comment is 0, blank is 1.
+.editorconfig, code is 8, comment is 0, blank is 1.
+.gitignore, code is 13, comment is 0, blank is 1.
+.postcssrc.js, code is 7, comment is 2, blank is 1.
+build\build.js, code is 33, comment is 1, blank is 8.
+build\check-versions.js, code is 44, comment is 0, blank is 10.
+build\utils.js, code is 79, comment is 5, blank is 17.
+build\vue-loader.conf.js, code is 20, comment is 0, blank is 2.
+build\webpack.base.conf.js, code is 74, comment is 4, blank is 5.
+build\webpack.dev.conf.js, code is 87, comment is 11, blank is 7.
+build\webpack.prod.conf.js, code is 113, comment is 24, blank is 9.
+config\dev.env.js, code is 5, comment is 0, blank is 2.
+config\index.js, code is 28, comment is 28, blank is 16.
+config\prod.env.js, code is 3, comment is 0, blank is 1.
+index.html, code is 12, comment is 1, blank is 0.
+out\linecount.json, code is 234, comment is 0, blank is 0.
+out\linecount.txt, code is 46, comment is 0, blank is 1.
+package.json, code is 65, comment is 0, blank is 1.
+README.md, code is 14, comment is 1, blank is 7.
+src\App.vue, code is 26, comment is 0, blank is 2.
+src\assets\logo.png, it is a binary file.
+src\components\cart\cart.vue, code is 115, comment is 0, blank is 8.
+src\components\category\category.vue, code is 68, comment is 0, blank is 10.
+src\components\home\home.vue, code is 85, comment is 0, blank is 7.
+src\components\m-navbar\m-navbar.vue, code is 39, comment is 0, blank is 2.
+src\components\m-tabbar\m-tabbar.vue, code is 74, comment is 2, blank is 2.
+src\components\user\background.png, it is a binary file.
+src\components\user\obligation.png, it is a binary file.
+src\components\user\receiving.png, it is a binary file.
+src\components\user\repairs.png, it is a binary file.
+src\components\user\user.png, it is a binary file.
+src\components\user\user.vue, code is 140, comment is 0, blank is 14.
+src\main.js, code is 13, comment is 6, blank is 2.
+src\router\index.js, code is 27, comment is 0, blank is 1.
+static\.gitkeep, code is 0, comment is 0, blank is 0.
+static\favicon.ico, it is a binary file.
+yarn.lock, code is 5702, comment is 16, blank is 891.
+===============================================================================

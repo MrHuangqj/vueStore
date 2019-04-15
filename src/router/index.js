@@ -4,6 +4,9 @@ import Home from 'com/home/home'
 import Category from 'com/category/category'
 import Cart from 'com/cart/cart'
 import User from 'com/user/user'
+import Good from 'com/good/good'
+import Login from 'com/login/login'
+
 Vue.use(Router)
 
 export default new Router({
@@ -23,6 +26,13 @@ export default new Router({
     {
       path: '/user',
       component: User
+    },
+    {
+      path: '/good',
+      component: Good
+    },{
+      path:'/login',
+      component:Login
     }
   ]
 })

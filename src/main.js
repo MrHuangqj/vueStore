@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+
 /**
  * 全局引入vue ydui组件库
  */
